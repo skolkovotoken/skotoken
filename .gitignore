@@ -3,5 +3,5 @@ node_modules
 build
 build_bkp
 tsconfig.json
-build_rinkeby
+build_rinkeby*
 build_mainnet*
